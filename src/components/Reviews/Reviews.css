@@ -1,0 +1,9 @@
+.customer-review img {
+    height: 200px;
+}
+
+.customer-review {
+    height: 450px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}

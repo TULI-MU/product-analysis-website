@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "person3.jpg",
+        "name": "Silmoon",
+        "text": "Thank you brand new item",
+        "ratings": "5.0"
+    },
+    {
+        "id": 2,
+        "image": "person5.jpg",
+        "name": "Alexa",
+        "text": "Average in all aspects. Not great for my purposes",
+        "ratings": "3.5"
+    },
+    {
+        "id": 3,
+        "image": "person7.jpg",
+        "name": "John",
+        "text": "Battery life is a little disappointing.",
+        "ratings": "5.0"
+    },
+    {
+        "id": 4,
+        "image": "person6.jpg",
+        "name": "Hasan",
+        "text": "Works quite well. Ears become sore after prolonged use. I dont think this is a fault of the brand more so of the over the ear design.",
+        "ratings": "4.5"
+    },
+    {
+        "id": 5,
+        "image": "person4.jpg",
+        "name": "Sharmistha",
+        "text": "Excellent As a Headset",
+        "ratings": "5.0"
+    },
+    {
+        "id": 6,
+        "image": "person2.jpg",
+        "name": "Mark",
+        "text": "Returned first one as sound quality died at about 25 days. Returned for another. This time sound quality got horrible around the 65 day mark- too late to return for a refund.",
+        "ratings": "1.0"
+    },
+    {
+        "id": 7,
+        "image": "person1.jpg",
+        "name": "Robert",
+        "text": "Very Impressive Sound.Durability is good",
+        "ratings": "5.0"
+    }
+]
