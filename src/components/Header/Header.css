@@ -1,0 +1,14 @@
+nav {
+    margin-top: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+
+}
+
+nav a:hover {
+    color: crimson;
+}
