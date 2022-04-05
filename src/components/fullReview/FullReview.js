@@ -5,7 +5,6 @@ import './FullReview.css';
 
 const FullReview = () => {
     const [reviews, setReviews] = useReviews();
-    console.log(reviews);
     return (
         <div>
             <h1>What Our <h2 className='red'>Clients</h2> Say!!</h1>

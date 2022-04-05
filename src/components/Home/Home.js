@@ -13,12 +13,12 @@ const Home = () => {
         navigate(path);
     }
     return (
-        <div>
+        <div className='container'>
             <div className="home-container">
                 <div className="text-container">
                     <h1>SOUND TRAP</h1>
                     <p className='headphone'>Explore our extensive range of over-ear headphones including Bluetooth & wireless headphones designed to help you enjoy your favourite music on the go.</p>
-                    <button className='btn'><a href="https://www.youtube.com/watch?v=nCX8ukHBmu0" target="_blank">Live Demo</a></button>
+                    <button className='btn'><a href="https://www.youtube.com/watch?v=nCX8ukHBmu0" target="_blank" rel="noreferrer">Live Demo</a></button>
                 </div>
                 <div className="image-container">
                     <img src="lenovo-removebg-preview.png" alt="" />
