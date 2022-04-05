@@ -2,8 +2,12 @@
     height: 200px;
 }
 
+
 .customer-review {
-    height: 450px;
+    height: 430px;
+    width: 350px;
+    margin: auto;
     border: 1px solid lightgrey;
     border-radius: 10px;
+    background-color: antiquewhite;
 }

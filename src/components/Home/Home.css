@@ -25,14 +25,10 @@
     text-decoration: none;
     color: crimson;
     font-size: large;
-
-
 }
 
 .customer {
-    display: flex;
-    align-items: center;
-    /* text-align: center; */
+    text-align: center;
     color: crimson;
     margin-top: 100px;
 
@@ -41,6 +37,8 @@
 .review {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;
+    grid-gap: 10px;
+    justify-content: center;
+    align-items: center;
 
 }
