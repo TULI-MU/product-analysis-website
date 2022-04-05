@@ -25,14 +25,14 @@ const Home = () => {
                 </div>
             </div>
             <div >
-                <h1 className='customer'>Customer Reviews</h1>
+                <h1 className='customer'>Client Reviews</h1>
                 <div className='review'>
                     {
                         reviews.slice(0, 3).map(review => <Reviews key={review.id} review={review}></Reviews>)
                     }
                 </div>
                 <div>
-                    <button onClick={seeMore} className="se-more">See All Customers</button>
+                    <button onClick={seeMore} className="see-more">See All Clients</button>
                 </div>
             </div>
         </div>

@@ -42,3 +42,14 @@
     align-items: center;
 
 }
+
+.see-more {
+    margin-top: 25px;
+    padding: 10px 70px;
+    background-color: crimson;
+    color: white;
+    font-size: medium;
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
+}
