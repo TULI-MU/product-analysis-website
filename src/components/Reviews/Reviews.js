@@ -17,6 +17,7 @@ const Reviews = (props) => {
             {/* {
                 reviews.map(review => <Reviews key={review.id} review={review}></Reviews>)
             } */}
+            <h1>What our Customers say!</h1>
         </div>
     );
 };
