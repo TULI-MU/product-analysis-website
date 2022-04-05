@@ -7,8 +7,8 @@ const Reviews = (props) => {
     // const [reviews, setReviews] = useReviews();
     const { image, name, text, ratings } = props.review;
     return (
+
         <div className='customer-review'>
-            <h1>comment</h1>
             <img src={image} alt='' />
             <h3>{name}</h3>
             <p>Review:{text}</p>
